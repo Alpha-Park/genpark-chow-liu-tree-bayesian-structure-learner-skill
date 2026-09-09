@@ -1,0 +1,13 @@
+{
+  "name": "genpark-chow-liu-tree-bayesian-structure-learner-skill",
+  "version": "1.0.0",
+  "description": "Chow-Liu algorithm learning optimal tree-structured Bayesian Networks from mutual information matrices via maximum weight spanning trees.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "chow-liu-tree",
+    "structure-learning",
+    "bayesian-network",
+    "information-geometry"
+  ]
+}
